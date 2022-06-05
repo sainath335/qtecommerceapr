@@ -1,0 +1,6 @@
+[submodule "ui/ordermanagement"]
+	path = ui/ordermanagement
+	url = https://github.com/sainath335/ordermanagementui.git
+[submodule "api/ordermanagement"]
+	path = api/ordermanagement
+	url = https://github.com/sainath335/ordermanagementservices.git
